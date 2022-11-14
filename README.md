@@ -7,11 +7,13 @@ Code for HCLT 202 paper: *[Movie Revies Sentiment Analysis Considering the Order
 - Transformers 2.11.0
 - Seqeval 1.2.2
 
+All code only supports running on Linux.
+
 # Model Structure
 
 <img src='model.png' width='1000'>
 
-All code only supports running on Linux.
+
 
 ## Data
 
