@@ -17,7 +17,7 @@ All code only supports running on Linux.
 
 ## Data
 
-*[NSMC](https://github.com/e9t/nsmc)*
+Naver sentiment movie corpus v1.0: *[NSMC](https://github.com/e9t/nsmc)*
 
 ## Train & Test
 
