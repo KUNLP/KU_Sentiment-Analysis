@@ -1,5 +1,5 @@
 # Sentiment analysis model for Korean movie review
-Code for HCLT 202 paper: *[Movie Revies Sentiment Analysis Considering the Order in which Sentiment Words Appear](http://koreascience.or.kr/article/CFKO202030060610812.page?&lang=ko)*
+Code for HCLT 2020 paper: *[Movie Revies Sentiment Analysis Considering the Order in which Sentiment Words Appear](http://koreascience.or.kr/article/CFKO202030060610812.page?&lang=ko)*
 
 ## Dependencies
 - python 3.7
