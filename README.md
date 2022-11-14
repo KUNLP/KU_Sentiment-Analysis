@@ -22,4 +22,5 @@ python main.py
 ## Results on NSMC
 
 | Model | Acc |
+|---|--------- |
 | KUSA | 90.81% |
