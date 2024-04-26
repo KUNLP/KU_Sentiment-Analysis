@@ -6,7 +6,7 @@ Code for HCLT 2020 paper: *[Movie Revies Sentiment Analysis Considering the Orde
 - PyTorch 1.5.0
 - Transformers 2.11.0
 - Seqeval 1.2.2
-- 
+
 
 All code only supports running on Linux.
 
