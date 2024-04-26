@@ -1,8 +1,6 @@
 import os
 import config
 from src.model.main_functions import Helper
-import json
-import torch
 
 
 if __name__ == "__main__":
